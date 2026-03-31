@@ -1,0 +1,11 @@
+
+.home{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+}
+.home a{
+  padding: 8px 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
